@@ -83,12 +83,12 @@ var simplemaps_europemap_mapdata={
     "10": {},
     "11": {},
     AL: {
-      name: "Albania",
       color: "#b4b4b4",
-      hover_color: "#768393"
+      hover_color: "#768393",
+      name: "Albânia"
     },
     AM: {
-      name: "Armenia",
+      name: "Arménia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -100,7 +100,7 @@ var simplemaps_europemap_mapdata={
       name: "Áustria"
     },
     BA: {
-      name: "Bosnia and Herzegovina",
+      name: "Bósnia e Herzegovina",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -119,12 +119,12 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  0,79%"
     },
     BY: {
-      name: "Belarus",
+      name: "Bielorrússia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
     CH: {
-      name: "Switzerland",
+      name: "Suíça",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -185,12 +185,12 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  2,34%"
     },
     GB: {
-      name: "United Kingdom",
+      name: "Reino Unido",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
     GE: {
-      name: "Georgia",
+      name: "Geórgia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -223,7 +223,7 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  1,13%"
     },
     IS: {
-      name: "Iceland",
+      name: "Islândia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -256,7 +256,7 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  0,96%"
     },
     MD: {
-      name: "Moldova"
+      name: "Moldávia"
     },
     ME: {
       name: "Montenegro",
@@ -264,7 +264,7 @@ var simplemaps_europemap_mapdata={
       hover_color: "#768393"
     },
     MK: {
-      name: "Macedonia",
+      name: "Macedónia do Norte",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -276,7 +276,7 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  2,3%"
     },
     NO: {
-      name: "Norway",
+      name: "Noruega",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -302,7 +302,7 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  0,52%"
     },
     RS: {
-      name: "Serbia",
+      name: "Sérvia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
@@ -328,12 +328,12 @@ var simplemaps_europemap_mapdata={
       description: "Parte do PIB para a ciência:  0,88%"
     },
     TR: {
-      name: "Turkey",
+      name: "Turquia",
       color: "#b4b4b4",
       hover_color: "#768393"
     },
     UA: {
-      name: "Ukraine",
+      name: "Ucrânia",
       color: "#b4b4b4",
       hover_color: "#768393"
     }
